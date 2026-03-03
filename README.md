@@ -1,4 +1,4 @@
-# Background Remover
+# RemoveBG - Background Remover
 
 Minimal web app to remove image backgrounds instantly.
 
@@ -10,7 +10,7 @@ Just clean PNGs.
 
 ## 🚀 Live Demo
 
-👉 https://bg-remover-wheat-eight.vercel.app
+👉 https://removebg-app.vercel.app
 
 ---
 
@@ -26,6 +26,11 @@ Just clean PNGs.
 ---
 
 ## 🧠 Tech Stack
+
+ <a href="https://developer.mozilla.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react,vite,vercel&perline=11" alt="My Skills" />
+ </a>
+
 
 - React + Vite
 - Vercel Serverless Functions
